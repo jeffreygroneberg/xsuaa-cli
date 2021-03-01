@@ -7,7 +7,7 @@ Wrote this in my free time as a **private person**. **This is not affiliated wit
 The purpose of this tool is to allow a **oAuth user grant flow JWT retrieval** been automated within a CLI tool.
 Most tools only implemented client credentials flow.
 
-This CLI tool with boostrap a small http server in the background that will take care of the oAuth redirect after a successfull authentication at the IdP. 
+This CLI tool will boostrap a small http server in the background that will take care of the oAuth redirect after a successfull authentication at the IdP. 
 **After the callback has been triggered it will print the JWT with the user principal on the console.**
 
 # Usage

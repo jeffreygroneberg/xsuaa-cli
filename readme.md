@@ -1,3 +1,7 @@
+# Disclaimer
+
+Wrote this in my free time as a **private person**. **This is not affiliated with SAP!**
+
 # Usage
 The MacOS binary is already been shipped in this repo, but feel free to build it once again if you don't trust or if you need a Windows binary :) 
 ```zsh
